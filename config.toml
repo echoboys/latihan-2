@@ -1,4 +1,4 @@
 baseURL = "https://penakode.com/"
 languageCode = "en-us"
 title = "Penakode"
-theme = "mainroad"
+theme = "hugo-refresh"
